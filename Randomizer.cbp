@@ -23,6 +23,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="README.txt" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
