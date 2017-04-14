@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1488856538 source:d:\doug\documents\git\randomizer\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<vector>
+	<cctype>
+	<time.h>
+
